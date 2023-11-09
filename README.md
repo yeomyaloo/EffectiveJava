@@ -1,4 +1,6 @@
 # 이펙티브 자바 
+![image](https://github.com/yeomyaloo/EffectiveJava/assets/81970382/4ebee998-e487-4e28-be55-0782315c288f)
+
 ## 벨로그
 [벨로그에 똑같이 정리해둔 내용들](https://velog.io/@yeomyaloo/series/Effective-Java)
 
