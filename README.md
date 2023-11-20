@@ -16,4 +16,6 @@
 - [아이템 18. 상속보다는 컴포지션을 사용하라](https://github.com/yeomyaloo/EffectiveJava/blob/main/4%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4/item18.md)
   - 상속의 가장 큰 문제인 캡슐화를 깬다는 문제를 예시와 코드를 통해 알아보자
   - 컴포지션과 전달 클래스를 만드는 방법을 알아보고 상속 대신 래퍼클래스를 사용하도록 하자
-  
+- [아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://github.com/yeomyaloo/EffectiveJava/blob/main/4%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4/item19.md)
+  - 상속이 필요한 경우가 아니라면 final을 사용해 클래스를 상속받지 못하게 막아두고 상속이 꼭 필요하다면 설계할 때 상속을 꼭 고려하고 또 문서화를 꼭 해야 한다!
+  - 상속을 고려한 설계법과 문서화 방법을 설명하고 있다. 
