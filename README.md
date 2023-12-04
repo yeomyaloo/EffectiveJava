@@ -30,3 +30,6 @@
   - 태그 달린 클래스의 경우엔 무수한 단점이 있다. 이를 사용하기보단 클래스 계층구조를 사용해서 더 유연한 코드를 설계하자
 - [아이템 24. 멤버 클래스는 되도록 static으로 만들라](https://github.com/yeomyaloo/EffectiveJava/blob/main/4%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4/24.md)
   - 중첩 클래스의 종류 4가지를 확인하고 이때 특별하게 static 중첩 클래스를 사용하지 않아야 하는 이유가 아니라면 이를 사용하자
+- [아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라](https://github.com/yeomyaloo/EffectiveJava/blob/main/4%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4/25.md)
+  - 톱레벨 클래스를 굳이 한 소스 파일 안에서 사용해야한다면 정적 멤버 클래스로 사용하자
+  - 그게 아니라면 톱레벨 클래스별로 소스파일을 분리해서 작업하자 
