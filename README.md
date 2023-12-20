@@ -42,3 +42,5 @@
 - [아이템 27. 비검사 경고를 제거하라](https://github.com/yeomyaloo/EffectiveJava/blob/main/5%EC%9E%A5%20%EC%A0%9C%EB%84%A4%EB%A6%AD/27.md)
   - 컴파일러가 내뱉는 비검사 경고를 무시하지말고 최대한 제거를하자
   - 제거할 수 없다면 @SuppressWarnings 애너테이션을 붙여 이 경고를 숨기고 이 애너테이션은 꼭 타입 안전성을 확보 했을때만 좁은 범위에 붙여 사용하자
+- [아이템 28. 배열보다는 리스트를 사용하라](https://github.com/yeomyaloo/EffectiveJava/blob/main/5%EC%9E%A5%20%EC%A0%9C%EB%84%A4%EB%A6%AD/28.md)
+  - 배열이 가지는 치명적 단점은 런타임시에 일어난다. 그러니까 이를 애초에 해결할 리스트(제네릭)을 사용해서 이런 문제를 발생하지 않도록 하자
