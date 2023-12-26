@@ -47,3 +47,5 @@
 - [아이템 29. 이왕이면 제네릭 타입으로 만들라](https://github.com/yeomyaloo/EffectiveJava/blob/main/5%EC%9E%A5%20%EC%A0%9C%EB%84%A4%EB%A6%AD/29.md)
   - 클라이언트에서 직접 형변환해야 하는 배열보단 제네릭 타입이 더 안전하고 쓰기 편하다.
   - 그러니 가능하면 새로 타입을 선언한다면 형변환 없이도 사용 가능하게 하자. (배열 대신 리스트를 쓰자는 말이랑 일맥상통 ~) 
+- [아이템 30. 이왕이면 제네릭 메서드로 만들라](https://github.com/yeomyaloo/EffectiveJava/blob/main/5%EC%9E%A5%20%EC%A0%9C%EB%84%A4%EB%A6%AD/30.md)
+  - 메서드 역시 제네릭하게 사용하면 문제가 줄어든다. 
